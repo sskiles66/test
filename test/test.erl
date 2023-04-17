@@ -3,4 +3,4 @@
 -export([print_hello/0]).
 
 print_hello()->
-	io:fwrite("Hello everybody!\nThis is soooo cool!\n").
+	io:fwrite("Hello everybody!\nThis is soooo cool!\n"). %testststs
